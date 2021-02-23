@@ -23,6 +23,7 @@ validpar(k_nb = k_nb, method = "Polynomial", size = size, mu = mu, p_zinb = p_zi
 
 # Generate data
 data <- corrvar(n = n, k_nb = k_nb, method = "Polynomial", size = size, mu = mu, p_zinb = p_zinb, rho = rho)
+data$Sigma
 
 # Compare plots
 get_abs_value <- function(x, y){
