@@ -1,7 +1,7 @@
 library(uwot)
 library(ggplot2)
 
-data <- readRDS(file="datasets/n500_p25_s10-150_p02-06.Rda")
+data <- readRDS(file="data/datasets/n500_p25_s10-150_p02-06.Rda")
 
 # UMAP
 umap_raw <- umap(data)
