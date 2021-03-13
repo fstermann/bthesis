@@ -1,7 +1,7 @@
 library(gridExtra)
 library(ggplot2)
 
-data <- readRDS(file="dim_red/01_umap.Rda")
+data <- readRDS(file="code/dim_red/01_umap.Rda")
 
 # kmeans
 umap_kmeans <- kmeans(data[,c("x", "y")], centers = 2)
