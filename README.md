@@ -1,4 +1,4 @@
-# Bachelors Thesis @LMU Munich
+# Bachelors Thesis in Statistics @LMU Munich
 ## Einfluss von Abhängigkeitsstrukturen auf Clustering Performance nach Dimensionsreduktion
 \
 \
