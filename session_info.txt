@@ -27,6 +27,6 @@ loaded via a namespace (and not attached):
 
 
 Install all packages with:
-> install.packages("VGAM", "Matrix", "doSNOW", "uwot", "Rtsne", "mclust")
-> install.packages("hexbin", "ggplot2", "gridExtra", "grid", "gtable", "GGally")
-> install.packages("data.table", "dplyr", "tidyr")
+> install.packages(c("VGAM", "Matrix", "doSNOW", "uwot", "Rtsne", "mclust"))
+> install.packages(c("hexbin", "ggplot2", "gridExtra", "grid", "gtable", "GGally"))
+> install.packages(c("data.table", "dplyr", "tidyr"))
