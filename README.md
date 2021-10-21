@@ -1,11 +1,9 @@
 # Bachelors Thesis in Statistics @LMU Munich
 ## Einfluss von Abhängigkeitsstrukturen auf Clustering Performance nach Dimensionsreduktion
-\
+[Thesis Link](https://epub.ub.uni-muenchen.de/77439/)
 \
 \
 This repository contains code used in my bachelors thesis, as well as plots and results of the analysis.
-
-
 
 
     ├── data                        <- The data folder is generated with the function create_folders()
